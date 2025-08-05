@@ -1,6 +1,6 @@
 <h1 align="center"> Grupo Integrado de Bioinformática e Biologia Computacional (GIB²C) </h1>
 
-<h2 align="center"> Uma iniciativa da Universidade Federal Fluminense (UFF)</h2>
+<h2 align="center"> Umprojeto de extensão da Universidade Federal Fluminense (UFF)</h2>
 
 ### **Boas-vindas ao GIB²C 👋**
 
